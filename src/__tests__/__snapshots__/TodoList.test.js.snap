@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[object Object] render matches snapshot 1`] = `
+<div>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      name="name"
+      onChange={[Function]}
+      placeholder="Add Item"
+      required={true}
+      value=""
+    />
+  </form>
+  <hr />
+  <ul />
+</div>
+`;
+
+exports[`matches snapshot 1`] = `
+<div>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      name="name"
+      onChange={[Function]}
+      placeholder="Add Item"
+      required={true}
+      value=""
+    />
+  </form>
+  <hr />
+  <ul />
+</div>
+`;
